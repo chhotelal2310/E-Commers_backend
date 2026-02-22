@@ -16,6 +16,7 @@ const allowedOrigins = [
   "http://localhost:5174",
   "https://infinite-mart-ecom.vercel.app",
   "https://infinite-mart-assistance.onrender.com",
+  "https://e-commers-frontend-woad.vercel.app"
 ];
 
 app.use(
